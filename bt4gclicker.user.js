@@ -1,6 +1,6 @@
 // ==UserScript==
-// @version    0.0.1
 // @name    BT4G clicker
+// @version    0.0.1
 // @namespace    https://github.com/kolakao
 
 // @description  try to take over the world!
